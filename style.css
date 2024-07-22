@@ -1,0 +1,25 @@
+.head{
+    color: red;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.link {
+    background-color: lightcoral;
+}
+p {
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    width: 500;
+    height: auto;
+}
+ol li {
+    color: blue;
+    font-weight: 300;
+}
+ul li {
+    color: green;
+    font-weight: 300;
+}
